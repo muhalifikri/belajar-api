@@ -1,4 +1,5 @@
 pandas
 fastapi
 uvicorn
-email -validator
+email validator
+
